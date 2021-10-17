@@ -1276,6 +1276,7 @@ class ColorValidator(BaseValidator):
         "teal",
         "thistle",
         "tomato",
+        "transparent",
         "turquoise",
         "violet",
         "wheat",
